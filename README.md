@@ -1,2 +1,2 @@
-# sample
-# Some text
+sample
+Some text
